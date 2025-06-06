@@ -4,7 +4,7 @@ This is a **fully responsive clone** of the official [Visual Studio Code website
 
 ## 🔗 Live Preview
 
-[Click here to view the live site](#)  
+[Click here to view the live site](https://abbhiinay.github.io/VS-clone/)  
 
 ## Screenshots
 **Laptop**
