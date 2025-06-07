@@ -835,20 +835,7 @@ video{
     margin-left: 5%;
 }
 }
-@media(max-width: 380px){
-.container2{
-    width: 90%;
-    justify-content: center;
-    margin-left: 5%;
-}
-.innercontainer2{
-    padding:10px;
-    height:55vh;
-}
-.innercontainer2 img{
-    width:300px;
-}
-}
+
 
  
 
